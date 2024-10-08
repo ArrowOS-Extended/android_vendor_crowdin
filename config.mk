@@ -14,5 +14,6 @@
 
 # Translations
 PRODUCT_PACKAGES += \
+    ApertureTranslation \
     GameSpaceTranslation \
     SettingsTranslation
