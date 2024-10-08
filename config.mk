@@ -14,4 +14,5 @@
 
 # Translations
 PRODUCT_PACKAGES += \
+    GameSpaceTranslation \
     SettingsTranslation
