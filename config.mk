@@ -15,6 +15,7 @@
 # Translations
 PRODUCT_PACKAGES += \
     ApertureTranslation \
+    FrameworksTranslation \
     GameSpaceTranslation \
     Launcher3Translation \
     SettingsTranslation
