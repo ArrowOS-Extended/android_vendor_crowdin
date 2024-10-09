@@ -180,4 +180,7 @@
     <string name="gphotos_spoof_switch_title">Armazenamento de fotos ilimitado</string>
     <string name="summary_gphotos_spoof_enabled">Backup ilimitado está ativado</string>
     <string name="summary_gphotos_spoof_disabled">Backup ilimitado está desativado</string>
+    <string name="key_attestation_keybox_title">Opções de atestado de keybox/chave</string>
+    <string name="key_attestation_switch_title">Desativar falsificações de keybox</string>
+    <string name="summary_key_attestation">Desativa todas as falsificações de estado de keybox e bootloader integradas. Necessário para módulos como TrickyStore.</string>
 </resources>
